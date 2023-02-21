@@ -1,0 +1,22 @@
+
+div{
+
+width: 500px;
+height: 500px;
+background-color: bisque;
+padding:20px;
+margin:10px;
+border-top-color:blueviolet;
+border-top-width: medium;
+border-top-style: dotted;
+border-bottom-color: red;
+border-bottom-width:thick;
+border-bottom-style: solid;
+border-right-color: yellow;
+border-right-width:20px;
+border-right-style: dashed;
+border-left-color: brown;
+border-left-width:thin;
+border-left-style:groove;
+
+}
